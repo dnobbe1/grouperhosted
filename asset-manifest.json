@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/grouperhosted/static/css/main.5f361e03.chunk.css",
+    "main.js": "/grouperhosted/static/js/main.05293944.chunk.js",
+    "main.js.map": "/grouperhosted/static/js/main.05293944.chunk.js.map",
+    "runtime-main.js": "/grouperhosted/static/js/runtime-main.fb404575.js",
+    "runtime-main.js.map": "/grouperhosted/static/js/runtime-main.fb404575.js.map",
+    "static/js/2.c5f6fbb1.chunk.js": "/grouperhosted/static/js/2.c5f6fbb1.chunk.js",
+    "static/js/2.c5f6fbb1.chunk.js.map": "/grouperhosted/static/js/2.c5f6fbb1.chunk.js.map",
+    "index.html": "/grouperhosted/index.html",
+    "precache-manifest.44360bb4370add1323150ee6c07f0201.js": "/grouperhosted/precache-manifest.44360bb4370add1323150ee6c07f0201.js",
+    "service-worker.js": "/grouperhosted/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/grouperhosted/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c5f6fbb1.chunk.js.LICENSE.txt": "/grouperhosted/static/js/2.c5f6fbb1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/grouperhosted/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb404575.js",
+    "static/js/2.c5f6fbb1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.05293944.chunk.js"
+  ]
+}
